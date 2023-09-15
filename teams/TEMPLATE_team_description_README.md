@@ -1,21 +1,13 @@
-# TEAMNAMEHERE
+# GAMENAMEHERE
 
-## Canonical game repo URL:
-
-URLHERE
+by TEAMNAMEHERE
 
 ## Team Members
 * Advanced Topic Subteam 1: TOPICHERE
-
 	* STUDENT1NAMEHERE
-		* Pitt ID: HERE
-		* Github Username: HERE
 
 * Advanced Topic Subteam 2: TOPICHERE
-
 	* STUDENT2NAMEHERE
-		* Pitt ID: HERE
-		* Github Username: HERE
 
 ## Game Description
 
